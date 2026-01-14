@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[13/01/2026]`  
+**Datum:** `[14/01/2026]`  
 **Studentnaam:** `[Giuliano Schaerlaecken]`  
 **Groepsnaam:** `[Groep W]`
 
@@ -8,34 +8,31 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
--Moodboard
--Persona
--Research
--Figma webshop
--
+- persona
+- wireframe
+
 
 > **Activiteiten:**  
-> - Ik heb mijn persona aangemaakt en belangrijke punten toegvd
-- ik heb nog wat research gedaan en screenshot genomen van bepaalde websites waar ik inspiratie uit ga nemen
-- ik ben begonnen in figma mijn webshop te ontwerpen de verschillende paginas aangemaakt , home , winkelmand en search pagina.
+- mijn persona heb ik aangepast op basis van feedback
+- wireframes verder uitgewerkt , namelijk een witte en zwarte pagina en nog productpagina plus andere type stijl gebrobeerd
 
----
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-Ik heb beter geleerd met figma werken.
+- niks speciaals
 
 
 > **Nieuwe skills:**  
-> - Ik heb geleerd dat communicatie super belangrijk is in een team om vooruitgang te boeken.
+> - niks speciaals
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
- 
-- Ik ben tevreden met het werk van vandaag , maar er kon meer gedaan worden.
+- tevreden van de punten die ik heb gekregen , en het werk dat is gedaan geweest , ik wens voor morgen de concept gekozen te hebben en een bijna/af gewerkte design te hebben.
 
 
 > **Algmeeen gevoel:**  
-> - **"Blij"**
+
+ - tevreden
+
 
