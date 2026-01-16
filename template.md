@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[15/01/2026]`  
+**Datum:** `[16/01/2026]`  
 **Studentnaam:** `[Giuliano Schaerlaecken]`  
 **Groepsnaam:** `[Groep W]`
 
@@ -11,29 +11,27 @@
 - wireframe
 
 
+
 > **Activiteiten:**  
+- de wireframe aangepast op basis van de feedback van de klant.
 
-- finale wireframe van hamza genruikt en mijn stijl toegevoed en zijn bestaande stijl aangepast , laaste paginas toegevoegd
 
----
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- niks speciaals
+- meer voorbereiding nodig voor de presentatie
 
 
 > **Nieuwe skills:**  
+> -  meer voorbereiding nodig voor de presentatie
 
-- niks speciaals
-
----
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-- tevreden met het werk dat vandaag gedaan is.
+ 
+- niet zo tevreden over de presentatie
 
 
 > **Algmeeen gevoel:**  
- - blij
- - tevreden
 
+- ok
 
