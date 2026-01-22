@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[21/01/2026]`  
+**Datum:** `[22/01/2026]`  
 **Studentnaam:** `[Giuliano Schaerlaecken]`  
 **Groepsnaam:** `[Groep W]`
 
@@ -8,36 +8,37 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-- login pagina gemaakt
-- register pagina gemaakt
-- backend verder afgewerkt , login en register route
+ - usertest uitgevoerd  , helaas niet succesvol.
+ - gegevens pagina aangemaakt en bijna helemaal afgewerkt
 
 
 > **Activiteiten:**  
+ 
+ - Vandaag heb ik een usertest voorbereid en uitgevoerd samen met Joren. Helaas kon deze niet als bruikbaar beschouwd worden ,persoon was helemaal niet mee met de technologie en begreep het meeste niet.
 
- - in register css en html aangemaakt voor de opmaak van de pagina in account2.html en style.css
-  - in login css en html aangemaakt voor de opmaak van de pagina in account.hmtl en style.css
-  - backend modules geinstalleerd , model voor users aangemaakt in models , User.js , code voor user op te slagen in database aangemaakt in server.js
+ - in het project gegevens pagina aangemaakt html en css
+
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- weer leren leren met database en juiste modules installeren. 
-
+ - voor het eerst met Joren en anderen van de klas naar een bejaardentehuis geweest
 
 
 > **Nieuwe skills:**  
-> - dotenv installeren in backend
-- connectie maken met database
+
+> - voor het eerst met Joren en anderen van de klas naar een bejaardentehuis geweest voor een usertest uit te voeren van de website.
+
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- we hebben goede vooruitgang gemaakt dus tevreden.
+ - iets teleurgesteld over de usertest , we hebben deze niet goed kunnen uitvoeren , persoon was helemaal niet mee met de technologie en begreep het meeste niet.
 
+- maar wel bij dat we vooruitgang hebben geboekt voor het coderen van de website
 
 > **Algmeeen gevoel:**  
-> - blij
+ 
+ - vermoeid
 
