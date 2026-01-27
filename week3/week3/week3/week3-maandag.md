@@ -1,8 +1,8 @@
 # Logboek
 
-**Datum:** 26/01/2026  
-**Studentnaam:** Giuliano Schaerlaecken  
-**Groepsnaam:** Groep W
+**Datum:** `[26/01/2026]`  
+**Studentnaam:** `[Giuliano Schaerlaecken]` 
+**Groepsnaam:** `[Groep W]`
 
 ---
 
